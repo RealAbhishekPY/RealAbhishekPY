@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops and architecture.
 - 🌱 I’m currently learning azure and gcp
 - 💞️ I’m looking to collaborate on anything related to infrastructure development.
-- 📫 How to reach me : **linkedin**(https://www.linkedin.com/in/abhishek-ambulkar-221634177)/**gmail**(abhishekambulkar2017@gmail.com)
+- 📫 How to reach me : **linkedin**(https://www.linkedin.com/in/abhishek-ambulkar-221634177) | **gmail**(abhishekambulkar2017@gmail.com)
 - 😄 Pronouns: he/him
 
 
