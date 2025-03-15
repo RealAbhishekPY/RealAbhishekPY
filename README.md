@@ -21,7 +21,9 @@ Welcome to my DevOps Engineer portfolio! This repository showcases my skills, ex
 - About Me
 - Skills
 - Experience
+<!---
 - Projects
+--->
 - Certifications
 - Contact
 
