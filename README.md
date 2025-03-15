@@ -34,7 +34,7 @@ Hello! I'm Abhishek, a passionate DevOps Engineer with 3 years of experience in 
 
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI.
 - **Containerization**: Docker, Kubernetes.
-- **Configuration Management**: Cinsul.
+- **Configuration Management**: consul.
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Infrastructure as Code**: Terraform, CloudFormation
 - **Monitoring & Logging**: Prometheus, Datadog, new Relic.
