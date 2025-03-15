@@ -41,6 +41,7 @@ Hello! I'm Abhishek, a passionate DevOps Engineer with 3 years of experience in 
 - **Monitoring & Logging**: Prometheus, Datadog, new Relic.
 - **Version Control**: Git, GitHub, GitLab
 - **Scripting**: Bash, Python, PowerShell
+- **Programming language**: Java
 
 ### Key Competencies
 
