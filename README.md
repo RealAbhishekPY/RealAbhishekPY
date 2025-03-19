@@ -3,7 +3,7 @@
 - 💬 Ask me about Devops and Cloud.
 - 🌱 I’m currently learning azure and gcp
 - 💞️ I’m looking to collaborate on anything related to infrastructure development.
-- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/abhishek-ambulkar-221634177) | [gmail](abhishekambulkar2017@gmail.com)
+- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/abhishek-ambulkar-221634177) | [abhishekambulkar2017@gmail.com](abhishekambulkar2017@gmail.com)
 - 😄 Pronouns: he/him
 - 😭 lost my 6 year old github account this is new one.
 
