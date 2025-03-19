@@ -50,14 +50,6 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my DevOps Engineer portfolio! This repository showcases my skills, experience, and projects in the field of DevOps. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-## Table of Contents
-
-- About Me
-- Skills
-- Experience
-- Certifications
-- Contact
-
 ## About Me
 
 Hello! I'm Abhishek, a passionate DevOps Engineer with 3 years of experience in automating, scaling, and optimizing infrastructure and applications. I thrive in dynamic environments and enjoy solving complex problems with innovative solutions.
