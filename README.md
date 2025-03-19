@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
