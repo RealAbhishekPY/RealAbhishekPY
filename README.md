@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning azure and gcp
 - 💞️ I’m looking to collaborate on anything related to infrastructure development.
 
-# Github stats
+### Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealAbhishekPY)](https://github.com/anuraghazra/github-readme-stats)    ![Abhishek Ambulkar's stats](https://github-readme-stats.vercel.app/api?username=RealAbhishekPY&show_icons=true)                    
 
-# Languages and Tools:
+### Languages and Tools:
 <br/>
 
 <div display="flex">
@@ -40,7 +40,7 @@ RealAbhishekPY/RealAbhishekPY is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-### My Portfolio
+# My Portfolio
 
 Welcome to my DevOps Engineer portfolio! This repository showcases my skills, experience, and projects in the field of DevOps. Feel free to explore and reach out if you have any questions or collaboration ideas.
 ---
