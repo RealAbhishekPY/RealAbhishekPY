@@ -15,11 +15,23 @@
 <br/>
 
 <div display="flex">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">  
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff">
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
 
 </div>
 <br/>
