@@ -3,15 +3,12 @@
 - 💬 Ask me about Devops and Cloud.
 - 🌱 I’m currently learning azure and gcp
 - 💞️ I’m looking to collaborate on anything related to infrastructure development.
-- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/abhishek-ambulkar-221634177) | [abhishekambulkar2017@gmail.com](abhishekambulkar2017@gmail.com)
-- 😄 Pronouns: he/him
-- 😭 lost my 6 year old github account this is new one.
 
-### Github stats
+# Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealAbhishekPY)](https://github.com/anuraghazra/github-readme-stats)    ![Abhishek Ambulkar's stats](https://github-readme-stats.vercel.app/api?username=RealAbhishekPY&show_icons=true)                    
 
-### Languages and Tools:
+# Languages and Tools:
 <br/>
 
 <div display="flex">
@@ -38,17 +35,15 @@
 </div>
 <br/>
 
-
-
-
 <!---
 RealAbhishekPY/RealAbhishekPY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# My Portfolio
+### My Portfolio
 
 Welcome to my DevOps Engineer portfolio! This repository showcases my skills, experience, and projects in the field of DevOps. Feel free to explore and reach out if you have any questions or collaboration ideas.
+---
 
 ## About Me
 
@@ -89,23 +84,7 @@ Hello! I'm Abhishek, a passionate DevOps Engineer with 3 years of experience in 
 - Monitored and optimized system performance using Prometheus and Grafana.
 - Collaborated with development teams to ensure seamless integration and delivery of applications.
 
-<!---
 
-## Projects
-
-### [Project Name]
-**Description**: [Brief description of the project and its objectives.]  
-**Technologies Used**: [List of technologies and tools used in the project.]
-
-- [Highlight key features and accomplishments of the project.]
-
-### [Another Project Name]
-**Description**: [Brief description of the project and its objectives.]  
-**Technologies Used**: [List of technologies and tools used in the project.]
-
-- [Highlight key features and accomplishments of the project.]
-
---->
 
 ## Certifications
 
