@@ -7,6 +7,8 @@
 
 ### Github stats
 
+![](https://komarev.com/ghpvc/?username=RealAbhishekPY)
+
 ![Abhishek Ambulkar's stats](https://github-readme-stats.vercel.app/api?username=RealAbhishekPY&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealAbhishekPY)](https://github.com/anuraghazra/github-readme-stats)                 
